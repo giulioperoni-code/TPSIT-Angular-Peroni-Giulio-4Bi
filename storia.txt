@@ -1,0 +1,9 @@
+* 17f16f6 (HEAD -> main) docs(readme): add student name and class
+*   4bd795c (origin/main, origin/HEAD, dispositivi-nuovi) Fondi restituzione anticipata
+|\  
+| * 743b22b Anticipa restituzione di INV-0211
+* | 75d9572 Aggiorna restituzione prevista di INV-0211
+|/  
+* 739f187 Aggiungi dettagli sui cambiamenti e informazioni su git status nel file elenco-prestiti.md
+* b9537b8 Aggiungi file elenco-prestiti.md con dettagli sui prestiti
+* 7a7540f Initial commit
