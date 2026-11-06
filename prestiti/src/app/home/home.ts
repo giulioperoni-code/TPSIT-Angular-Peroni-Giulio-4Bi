@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { IDispositivo } from '../interfaces/idispositivo';
+import { Dispositivo } from '../classi/dispositivo';
 
 @Component({
   imports: [],
@@ -20,4 +21,6 @@ export class Home {
     stato:'manutenzione',
     tipo: 'notebook'
   }
+
+  private dispositivo2: Dispositivo = new Dispositivo('hp', 'pc', 2026, 'manutenzione');
 }

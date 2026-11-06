@@ -12,4 +12,7 @@ import { Home } from './home/home'
 })
 export class App {
   protected readonly title = signal('prestiti');
+
+  private nome: string = 'Prestiti';
+  private scuola: string = 'ITT G. Marconi';
 }
